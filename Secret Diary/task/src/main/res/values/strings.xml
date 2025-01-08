@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Secret Diary</string>
+    <string name="etDiaryHint">Dear Diary...</string>
+    <string name="buttonSave">Save</string>
+    <string name="buttonUndo">Undo</string>
+    <string name="adYes">Yes</string>
+    <string name="adNo">No</string>
+    <string name="adTitle">Remove last note</string>
+    <string name="adMessage">"Do you really want to remove the last writing? This operation cannot be undone!"</string>
+    <string name="toastText">"Empty or blank input cannot be saved"</string>
+    <string name="login_hint">Enter PIN</string>
+    <string name="login_button">Log In</string>
+    <string name="et_error">Wrong PIN!</string>
+
+
+</resources>
